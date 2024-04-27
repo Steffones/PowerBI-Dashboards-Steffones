@@ -67,6 +67,14 @@ Figma: For creating digital mockups of the dashboard layout.
 
 Power BI: For data analysis, visualization creation, and report generation.
 
+### Domain Knowledge Learnt in Retail Promotional Analysis:
+
+Revenue = Quantity X Price
+
+Promotional Revenue = New Quantity X Reduced Price
+
+The minimum quantity of items to be sold at a reduced price to have Promotional Revenue greater than non-promotional Revenue is called the Target.
+
 
 #Snapshot of Dashboard (Power BI Service)
 
