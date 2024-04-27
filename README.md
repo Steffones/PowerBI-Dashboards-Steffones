@@ -1,6 +1,6 @@
 # Retail Store Promotion Performance Report
 
-### Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiY2M0NzVlYTgtMjEyMy00MGRhLTkxOWItZjcyZjViMWMwY2U0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+### Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiY2M0NzVlYTgtMjEyMy00MGRhLTkxOWItZjcyZjViMWMwY2U0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSection7cfa7deb2bd8fd862c97
 
 ## Problem Statement
 
